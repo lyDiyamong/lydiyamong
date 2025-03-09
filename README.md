@@ -1,6 +1,5 @@
-## Hi, I'm Diyamong
 <div align="center">
-  As a junior web developer with a strong passion for technology, I am driven by the challenge of crafting innovative solutions and bringing creative ideas to life. My journey into web development has been enriched by hands-on experience building projects that solve real world problems and also reflect my dedication to clean code, efficient code and user-friendly design.
+  A junior dev
 </div>
 
 
@@ -46,6 +45,7 @@
 </div>
 -->
 
+[![Mong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyDiyamong&show_icons=true&theme=radical)](https://github.com/lyDiyamong/github-readme-stats)
 
 
 <div >
