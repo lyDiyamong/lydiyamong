@@ -74,8 +74,6 @@
   <img src="https://img.shields.io/badge/nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
 
 
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
